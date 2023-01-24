@@ -21,6 +21,7 @@
         android:layout_height="wrap_content"
         android:text="Hello from Agrika\nI love to dance!"
         android:textSize="40sp"
+        android:layout_centerHorizontal="true"
         android:layout_below="@id/meme" />
 
     <TextView
