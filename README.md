@@ -1,8 +1,8 @@
-# Android Prework - **Say Hello**
+# Android Prework - **Tell the World Hello**
 
 Submitted by: **Agrika Gupta**
 
-**Say Hello** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast.
+**Tell the World Hello** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast.
 
 Time spent: 4 hours spent in total
 
